@@ -1,0 +1,57 @@
+
+/****Body****/
+ body{
+	margin:0px;
+	background:url(img/symphony.png) repeat;
+	text-align:center;
+	font-family: 'Montserrat', sans-serif;
+	color:DimGray;
+}
+
+#my-info{
+	margin-top:150px;
+} 
+
+#my-info h1{
+	color:tomato;
+}
+
+#my-info h2{
+	color:Salmon;
+}
+
+#my-info a .email{
+	color:DarkSeaGreen;
+	text-decoration:none;
+}
+
+
+#my-info h1 .name{
+	margin-bottom:0px;
+	border:10px solid tomato;
+	padding:30px;
+	display:inline;
+}
+
+
+#my-info h2 .title{
+	margin-top: 40px;
+    padding: 30px;
+}
+
+#my-info span .phone{
+	color:DarkSeaGreen;
+}
+
+#my-info p .quote{
+	font-style:italic;
+	font-size:20px;
+	margin-top:50px;
+	line-height:30px;
+}
+
+#my-info .break{
+	border: 1px solid grey;
+    margin: 30px auto;
+    width: 50%;
+}
